@@ -12,7 +12,7 @@
       "email": "contact@vleroy.fr"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "dev-master",
   "require": {
     "illuminate/support": "^7.0",
     "doctrine/dbal": "^2.8",
